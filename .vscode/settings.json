@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.import.gradle.java.home": "/Users/saidboburmakhamadaliev/Library/Java/JavaVirtualMachines/temurin-18.0.2.1/Contents/Home",
+    "java.jdt.ls.java.home": "/Users/saidboburmakhamadaliev/Library/Java/JavaVirtualMachines/temurin-18.0.2.1/Contents/Home",
+    "java.format.settings.url": ".vscode/java-formatter.xml"
+}
